@@ -1,4 +1,4 @@
 # AI_Hackathon
  
-This library is under MIT Licnse
+This project is under MIT License
 
